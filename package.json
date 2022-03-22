@@ -1,7 +1,7 @@
 {
   "name": "tag-cloud",
   "version": "0.0.0",
-  "homepage": "https://jonasholbech.github.io/electives-autumn-21-tag-cloud/",
+  "homepage": "https://ngeorge07.github.io/electives-autumn-21-tag-cloud/",
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=./",
